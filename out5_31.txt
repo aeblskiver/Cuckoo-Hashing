@@ -1,0 +1,31 @@
+
+CPSC 335-x - Programming Assignment #4: Cuckoo Hashing algorithm
+Input the file name (no spaces)!
+String <Algorithm Engineering> will be placed at t[11][0]
+String <California> will be placed at t[16][0]
+String <State University> will be placed at t[5][0]
+String <Fullerton> will be placed at t[15][0]
+String <College of Engineering and Computer Science> will be placed at t[10][0]
+String <Department of Computer Science> will be placed at t[5][0] replacing <State University>
+String <State University> will be placed at t[7][1]
+String <Dynamic Programming> will be placed at t[3][0]
+String <Monge Properties> will be placed at t[9][0]
+String <String Matching> will be placed at t[16][0] replacing <California>
+String <California> will be placed at t[2][1]
+String <Matrix Searching> will be placed at t[5][0] replacing <Department of Computer Science>
+String <Department of Computer Science> will be placed at t[12][1]
+String <Optimal Tree Construction> will be placed at t[5][0] replacing <Matrix Searching>
+String <Matrix Searching> will be placed at t[11][1]
+String <Online algorithms> will be placed at t[0][0]
+String <emphasis on> will be placed at t[15][0] replacing <Fullerton>
+String <Fullerton> will be placed at t[3][1]
+String <Server Problem> will be placed at t[9][0] replacing <Monge Properties>
+String <Monge Properties> will be placed at t[2][1] replacing <California>
+String <California> will be placed at t[16][0] replacing <String Matching>
+String <String Matching> will be placed at t[16][1]
+String <Some related problem> will be placed at t[11][0] replacing <Algorithm Engineering>
+String <Algorithm Engineering> will be placed at t[2][1] replacing <Monge Properties>
+String <Monge Properties> will be placed at t[9][0] replacing <Server Problem>
+String <Server Problem> will be placed at t[4][1]
+String <Self-Stabilization> will be placed at t[2][0]
+String <One of the greatest> will be placed at t[6][0]
